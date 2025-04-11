@@ -96,7 +96,7 @@
       <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander</button></a>
     </div>
   </section>  <footer>
-    <p>Soin & Succès © 2025 | WhatsApp : +590 696 13 62 28</p>
+    <p>Soin & Succès © 2025 | WhatsApp : +2250596136228</p>
   </footer>
 </body>
 </html>
