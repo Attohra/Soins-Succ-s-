@@ -73,27 +73,27 @@
     <div class="product">
       <h2>Serviette hygiénique en carton</h2>
       <p>Confort et protection naturelle</p>
-      <a href="https://wa.me/590696136228"><button>Commander</button></a>
+      <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander</button></a>
     </div>
     <div class="product">
       <h2>Pâte dentifrice au thé blanc (100g/200g)</h2>
       <p>Sourire éclatant et haleine fraîche</p>
-      <a href="https://wa.me/590696136228"><button>Commander</button></a>
+      <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander</button></a>
     </div>
     <div class="product">
       <h2>Antimoustique</h2>
       <p>Protection naturelle contre les piqûres</p>
-      <a href="https://wa.me/590696136228"><button>Commander</button></a>
+      <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander</button></a>
     </div>
     <div class="product">
       <h2>Gobelet alcalin (400ml)</h2>
       <p>Boire sainement au quotidien</p>
-      <a href="https://wa.me/590696136228"><button>Commander</button></a>
+      <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander</button></a>
     </div>
     <div class="product">
       <h2>Savon de bambou (3x100g)</h2>
       <p>Nettoyage doux et purifiant</p>
-      <a href="https://wa.me/590696136228"><button>Commander</button></a>
+      <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander</button></a>
     </div>
   </section>  <footer>
     <p>Soin & Succès © 2025 | WhatsApp : +590 696 13 62 28</p>
