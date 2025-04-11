@@ -68,7 +68,7 @@
     <img src="logo.png" alt="Soin & Succès">
     <h1>Soin & Succès</h1>
     <p class="slogan">Commence maintenant et ton corps te dira merci</p>
-    <a href="https://wa.me/590696136228"><button>Commander sur WhatsApp</button></a>
+    <a href="Envoyez un message à Soins et Succès sur WhatsApp. https://wa.me/22596136228"><button>Commander sur WhatsApp</button></a>
   </header>  <section class="products">
     <div class="product">
       <h2>Serviette hygiénique en carton</h2>
